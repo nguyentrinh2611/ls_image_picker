@@ -182,13 +182,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "hl_image_picker",
+      "name": "ls_image_picker",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2025-05-07T08:16:32.105142Z",
+  "generated": "2025-07-18T03:41:55.770742Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///Users/dev/flutter",

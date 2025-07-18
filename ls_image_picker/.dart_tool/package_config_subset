@@ -106,10 +106,10 @@ vm_service
 3.3
 file:///Users/dev/.pub-cache/hosted/pub.dev/vm_service-14.2.5/
 file:///Users/dev/.pub-cache/hosted/pub.dev/vm_service-14.2.5/lib/
-hl_image_picker
+ls_image_picker
 2.18
-file:///Users/dev/Documents/LiveStage/live-stage/packages/image_picker/hl_image_picker/
-file:///Users/dev/Documents/LiveStage/live-stage/packages/image_picker/hl_image_picker/lib/
+file:///Users/dev/Documents/image_picker/hl_image_picker/
+file:///Users/dev/Documents/image_picker/hl_image_picker/lib/
 sky_engine
 3.2
 file:///Users/dev/flutter/bin/cache/pkg/sky_engine/
